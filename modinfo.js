@@ -311,7 +311,7 @@
     "author": "ii",
     "version": "1.0.0",
     "dependencies": [
-      "Bepinex"
+      "TMPLoader"
     ],
     "git_path": "Menus/iimenu",
     "group": "Menus",
