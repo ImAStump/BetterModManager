@@ -306,3 +306,15 @@
     "download_url": "https://github.com/AHauntedArmy/YURFitGorillaTag/releases/download/1.0.4/YurFitGorillaTag-v1.0.4.zip"
   }
 ]
+ {
+    "name": "ii's Mod Menu",
+    "author": "ii",
+    "version": "1.0.0",
+    "dependencies": [
+      "Bepinex"
+    ],
+    "git_path": "Menus/iimenu",
+    "group": "Menus",
+    "download_url": "https://cdn.discordapp.com/attachments/1170117473912238150/1201352681663504504/iis_Stupid_Menu.dll?ex=65d2bc5f&is=65c0475f&hm=ceffa0f3733915dc544134d3dc05a314ee4fcf300234f0aa24af542ac76f7080&"
+  }
+]
